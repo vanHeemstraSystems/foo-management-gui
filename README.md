@@ -3,4 +3,4 @@ foo-management-gui
 
 A template for a microservice frontend.
 
-Can be read as "Foo Management GUI" at https://wvanheemstra-1.gitbook.io/foo-management-gui/
+Can be read as "Foo Management GUI" at https://app.gitbook.com/s/Rs3XPuVclvoj92Exb9AA/

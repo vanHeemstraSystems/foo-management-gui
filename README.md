@@ -13,4 +13,4 @@ Based on "The Ultimate NEXT.JS 13 Tutorial (Complete Walkthrough w/ Examples)" a
 
 Based on "Awesome Quarto" at https://github.com/mcanouil/awesome-quarto
 
-Based on "Quarto Web" at https://github.com/quarto-dev/quarto-web
+Based on "Quarto Web" at https://github.com/quarto-dev/quarto-web and https://quarto.org/
